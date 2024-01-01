@@ -1,124 +1,146 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jacob Colvin's Profile</title>
+</head>
+
+<body>
+
+  <h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+  <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+
+  <p align="left">
+    <a href="https://github.com/MacroPower/MacroPower">
+      <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    </a>
+    <a href="https://macropower.readthedocs.io/en/latest">
+      <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+    </a>
+    <a href="https://stackoverflow.com/users/4868262">
+      <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+    </a>
+    <a href="https://reddit.com/u/macropower">
+      <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+    </a>
+    <a href="https://github.com/MacroPower?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+      <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+    </a>
+  </p>
+
+  <a href="#macropower-title">
+    <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
   </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+  <ul>
+    <li>:office: &nbsp;I'm currently working at <strong>[84.51°]</strong></li>
+    <li>:seedling: &nbsp;I’m currently working on my <strong>[homelab]</strong></li>
+    <li>:speech_balloon: &nbsp;I like to talk about <strong>K8s</strong> and other <strong>OSS</strong></li>
+    <li>:book: &nbsp;Learn more about my projects on my <strong>[blog]</strong></li>
+    <li>:mailbox: &nbsp;Ask me anything on my <strong>[issues page]</strong></li>
+    <li>:computer: &nbsp;Connect with me on <strong>[LinkedIn]</strong></li>
+  </ul>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+  <br>
 
-<br>
+  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+  <p>
+    Tools, languages, and other things that I like to work with.
+  </p>
 
-> Tools, languages, and other things that I like to work with.
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        </a>
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        </a>
+        <br>Jsonnet
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        </a>
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        </a>
+        <br>Debian
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        </a>
+        <br>Grafana
+      </td>
+    </tr>
+  </table>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
+  <h2 align="left">Coding Activity</h2>
 
-<h2 align="left">Coding Activity</h2>
+  <p>
+    Total logged time since 2020-07-19. Updated every 1 hour. <a href="https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph">(Learn how this works)</a>
+  </p>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+  <!-- prettier-ignore-start -->
+  <!-- START_SECTION:ascii_graph -->
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+``
+1879.3 hr  ┤                                                                                              ╭──── 
+1878.9 hr  ┤                                                                                            ╭─╯     
+1878.6 hr  ┤                                                                     ╭──────────────────────╯       
+1878.3 hr  ┤                                                               ╭─────╯                              
+1878.0 hr  ┤                                                               │                                    
+1877.7 hr  ┤                                                              ╭╯                                    
+1877.4 hr  ┤                                                            ╭─╯                                     
+1877.0 hr  ┤                                     ╭──────────────────────╯                                       
+1876.7 hr  ┤                                    ╭╯                                                              
+1876.4 hr  ┤                                   ╭╯                                                               
+1876.1 hr  ┤            ╭──────────────────────╯                                                                
+1875.8 hr  ┤       ╭────╯                                                                                       
+1875.4 hr  ┼───────╯                                                                                            
+           ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+          -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+``
 
-```
-  1879.3 hr  ┤                                                                                              ╭──── 
-  1878.9 hr  ┤                                                                                            ╭─╯     
-  1878.6 hr  ┤                                                                     ╭──────────────────────╯       
-  1878.3 hr  ┤                                                               ╭─────╯                              
-  1878.0 hr  ┤                                                               │                                    
-  1877.7 hr  ┤                                                              ╭╯                                    
-  1877.4 hr  ┤                                                            ╭─╯                                     
-  1877.0 hr  ┤                                     ╭──────────────────────╯                                       
-  1876.7 hr  ┤                                    ╭╯                                                              
-  1876.4 hr  ┤                                   ╭╯                                                               
-  1876.1 hr  ┤            ╭──────────────────────╯                                                                
-  1875.8 hr  ┤       ╭────╯                                                                                       
-  1875.4 hr  ┼───────╯                                                                                            
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
+
+</body>
+
+</html>
 
 <!-- links -->
 
